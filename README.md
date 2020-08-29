@@ -11,4 +11,6 @@ To clean and transform the hot_100.csv, we first decided to keep the Performer, 
 From the merged data frame, we decided to do some further cleaning and keep only the performer, followers and track popularity columns to compare the track popularity against Instagram influence. We calculated the mean of the track popularity from all songs grouped by artist. We chose to use the max function to order by the follower count as this was static per artist. This was displayed in a data frame against followers and ordered by descending track popularity.
 
 # Load: the final database, tables/collections, and why this was chosen.
-We 
+The final database is a a comparison between Instagram Influence and Track Popularity for musicians on the top 100 charts
+Of all the data we extracted, this demonstrated the relationship most clearly.
+ 
